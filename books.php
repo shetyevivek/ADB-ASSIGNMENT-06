@@ -12,7 +12,7 @@
 
 <?php
 
-$name = $_GET['name'];
+$filename = $_GET['name'];
 
 //$filename = "./My_Books/" .$name. ".txt";
 
