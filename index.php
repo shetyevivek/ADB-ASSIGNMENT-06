@@ -29,7 +29,10 @@
   	<a href="books.php?name=CandideEn">CandideEn.txt</a><br>
   	<a href="books.php?name=CandideFr">CandideFr.txt</a><br>
   	<a href="books.php?name=Shakespeare">Shakespeare.txt</a><br>
-  	<a href="books.php?name=Adventures">Adventures.txt</a>
+  	<a href="books.php?name=Adventures">Adventures.txt</a><br>
+  	<a href="books.php?name=Book1">Book1.txt</a><br>
+  	<a href="books.php?name=Book2">Book2.txt</a><br>
+  	<a href="books.php?name=Book3">Book3.txt</a>
   </div>
 </body>
 </html>
