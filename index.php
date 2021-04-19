@@ -25,11 +25,11 @@
 
   <div>
   	<h3>Click below to view books!</h3>
-  	<a href="books.php?name=Alice.txt">Alice.txt</a><br>
-  	<a href="books.php?name=CandideEn.txt">CandideEn.txt</a><br>
-  	<a href="books.php?name=CandideFr.txt">CandideFr.txt</a><br>
-  	<a href="books.php?name=Shakespeare.txt">Shakespeare.txt</a><br>
-  	<a href="books.php?name=Adventures.txt">Adventures.txt</a>
+  	<a href="books.php?name=Alice">Alice.txt</a><br>
+  	<a href="books.php?name=CandideEn">CandideEn.txt</a><br>
+  	<a href="books.php?name=CandideFr">CandideFr.txt</a><br>
+  	<a href="books.php?name=Shakespeare">Shakespeare.txt</a><br>
+  	<a href="books.php?name=Adventures">Adventures.txt</a>
   </div>
 </body>
 </html>
