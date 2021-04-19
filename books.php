@@ -14,7 +14,7 @@
 
 $name = $_GET['name'];
 
-$filename = "./My_Books/" .$name. ".txt";
+//$filename = "./My_Books/" .$name. ".txt";
 
 $file = fopen($filename, "r");
 

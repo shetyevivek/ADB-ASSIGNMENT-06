@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ADB - Assignment 05</title>
+	<title>ADB - Assignment 06</title>
 </head>
 <body>
   <div>
@@ -25,9 +25,11 @@
 
   <div>
   	<h3>Click below to view books!</h3>
-  	<a href="books.php?name=Book1">Book1.txt</a><br>
-  	<a href="books.php?name=Book2">Book2.txt</a><br>
-  	<a href="books.php?name=Book3">Book3.txt</a>
+  	<a href="books.php?name=Alice.txt">Alice.txt</a><br>
+  	<a href="books.php?name=CandideEn.txt">CandideEn.txt</a><br>
+  	<a href="books.php?name=CandideFr.txt">CandideFr.txt</a><br>
+  	<a href="books.php?name=Shakespeare.txt">Shakespeare.txt</a><br>
+  	<a href="books.php?name=Adventures.txt">Adventures.txt</a>
   </div>
 </body>
 </html>
