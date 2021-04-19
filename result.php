@@ -58,7 +58,7 @@ while (false !== ($file = $dir->read()))
     }
 }
 
-if($count == 3)
+if($count == 9)
 {
     echo "No match found in any book!";
 }
